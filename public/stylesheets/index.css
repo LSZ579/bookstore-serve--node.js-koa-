@@ -1,0 +1,37 @@
+*{
+    padding:0;
+    margin:0;
+}
+#ind{
+    position: absolute;
+    left:42%;
+}
+#information{
+    position: absolute;
+    left:40%;
+    
+}
+h1{
+    font-size:400px;
+    font-weight:normal;
+    margin-bottom:12px;
+}
+h2{
+    position: relative;
+    line-height:1.8em;
+    font-size:36px;
+    left:32px;
+}
+h3{
+    position: relative;
+    line-height:1.8em;
+    font-size:36px;
+    left:-30px;
+}
+a{
+    text-decoration:none;
+    color:black;
+}
+#excelexcel{
+    color:rgb(78, 70, 180);
+}
